@@ -36,3 +36,4 @@ def delete(pedidos,numero_mesa):
 
 print("hola soy miguel")
 print("hola agregue una nueva linea aqui")
+print("otra linea nueva aqui")
