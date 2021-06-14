@@ -32,3 +32,6 @@ def update(pedidos,numero_mesa ,opcion_modificar, cantidas_actulizada ):
 def delete(pedidos,numero_mesa):
     pedidos.pop(str(numero_mesa))
     return pedidos
+
+
+print("hola soy miguel")
